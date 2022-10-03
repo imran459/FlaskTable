@@ -1,0 +1,90 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+.main{
+background-color: #ddd;
+}
+
+.main .container0{
+grid-gap: 20px;
+display: flex;
+padding: 10px 100px;
+margin-bottom: 10px;
+background-color: white;
+padding-bottom: 10px;
+padding-left: 30px;
+padding-right: 30px;
+}
+label{
+font-size: 14px; 
+}
+input{
+margin:1px;
+padding:5px 505px 5px 10px ;
+
+border:none;
+background-color: #ddd;
+border-radius: 5px;
+width: 10%;
+}
+
+
+.input2{
+grid-gap: 40px;
+
+}
+.container{
+padding: 10px 0px;
+margin-bottom: 10px;
+background-color: white;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 10px;
+
+}
+.container1{
+padding: 10px 0px;
+padding-left: 30px;
+padding-right: 30px;
+background-color: white;
+
+}
+table {
+    padding-top: 20px;
+font-family: arial, sans-serif;
+border-collapse: collapse;
+
+width: 100%;
+
+}
+
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 5px 10px;
+font-family: "Times New Roman", Times, serif;
+
+}
+th{
+color: grey;
+}
+
+.col{
+width: 100px;
+text-align: left;
+
+}
+.radio{
+text-align: left;
+
+}
+span{
+padding-left: 50px;
+
+}
+.bold{
+font-weight: bold;
+}
+#text{
+text-align: right;
+}
